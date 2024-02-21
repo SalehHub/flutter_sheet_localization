@@ -21,7 +21,7 @@ dependencies:
 
   template_string: #^0.6.0
     git:
-      url: https://github.com/salehahmedZ/flutter_sheet_localization.git
+      url: https://github.com/SalehHub/flutter_sheet_localization.git
       path: template_string
 
 dev_dependencies:
